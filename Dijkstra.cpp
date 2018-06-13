@@ -11,7 +11,7 @@ class Graph{
 public:
 
 	//vector<int>* map;
-	vector<int> m_mMap; //'map' may procude conflicts with std::map, especially when using namespace std;
+	vector<int> m_mMap; //'map' may produce conflicts with std::map, especially when using namespace std;
 	int row;
 	int col;
 
