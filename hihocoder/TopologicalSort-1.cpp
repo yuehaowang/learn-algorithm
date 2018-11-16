@@ -1,3 +1,7 @@
+/************
+ * http://hihocoder.com/problemset/problem/1174
+ */
+
 #include <iostream>
 #include <queue>
 #include <cstring>
