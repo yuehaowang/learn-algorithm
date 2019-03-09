@@ -1,3 +1,3 @@
 # LearnAlgorithm
 
-A set of materials of algorithm learning and exercises.
+A set of exercises and learning materials of algorithm.
